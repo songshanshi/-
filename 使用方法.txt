@@ -1,0 +1,12 @@
+wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
+
+chmod +x bbr.sh
+
+./bbr.sh
+
+
+
+Windows SSR客户端 点击下载地址https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases
+MacOS SSR客户端 点击下载地址https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases
+Linux SSR客户端 点击下载地址https://github.com/erguotou520/electron-ssr/releases
+安卓 SSR客户端 点击下载地址https://github.com/shadowsocksr-backup/shadowsocksr-android/releases/download/3.4.0.8/shadowsocksr-release.apk
